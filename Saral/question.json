@@ -1,0 +1,12 @@
+{
+    "id": "2417",
+    "parent_exercise_id": "2405",
+    "name": " Question 3",
+    "slug": "dictionary__DebugCode/question3",
+    "sequence_num": 9003,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Niche ek program hai jisme keys 1 se lekar 15 ke beech main hai aur values keys ka square hai jaise ki. Output kuch esha hona chahiye :- ab aapko is program ko theek karna hai.     \"},{\"type\":\"python\",\"value\":{\"code\":\"c=dict()\\nfor i in range(1,16):\\n    c=i*i\\nprint(c) \",\"testCases\":[]}}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/question3.md"
+}
