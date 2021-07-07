@@ -1,0 +1,12 @@
+{
+    "id": "3266",
+    "parent_exercise_id": null,
+    "name": "what-is-javascript?",
+    "slug": "js-intro__what-is-javascript?",
+    "sequence_num": 0,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Before we give you a formal definition of JavaScript, let us show you where JavaScript is used. Chances are, you have already used JavaScript before.\\nEvery time you Play audio and video on youtube, you are likely using JavaScript\\nEvery time you zoom in and zoom out on an image, you are likely using JavaScript\\nEvery time you click a button on a browser, chances are there that you are using javascript You can go through this video first to understand the features of Javascript.\\n    [Features of Javascript](https://www.youtube.com/watch?v=DONMpU7Xc8w) Javascript is a high-level scripting and interpreted programming language. Now, there are three important phrases to understand here. High level, Scripting, and Interpreted. \"}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/js-intro/what-is-javascript?.md"
+}

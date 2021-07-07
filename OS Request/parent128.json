@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "3266",
+            "parent_exercise_id": null,
+            "name": "what-is-javascript?",
+            "slug": "js-intro__what-is-javascript?",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-intro/what-is-javascript?.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3298",
+            "parent_exercise_id": null,
+            "name": "history-of-JS",
+            "slug": "js-intro__history-of-JS",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-intro/history-of-JS.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3267",
+            "parent_exercise_id": null,
+            "name": "how-can-we-run-JS-on-our-laptop?",
+            "slug": "js-intro__how-can-we-run-JS-on-our-laptop?",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-intro/how-can-we-run-JS-on-our-laptop?.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
